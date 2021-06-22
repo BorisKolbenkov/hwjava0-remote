@@ -53,6 +53,6 @@
 
 Тестирование производилось в следующем окружении:
 * Windows 10 x64
-* Java 11
+* Java 11. version 11.0.11
 * Git Bash 
 * IntelliJ IDEA  
